@@ -1,0 +1,3 @@
+[submodule "ctags-arduino"]
+	path = ctags-arduino
+	url = https://github.com/arduino/ctags.git
